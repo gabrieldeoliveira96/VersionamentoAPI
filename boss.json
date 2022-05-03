@@ -1,0 +1,12 @@
+{
+	"name": "versionamento de API",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "./src",
+	"projects": [],
+	"dependencies": {
+		"github.com/hashload/horse": "^3.0.1",
+		"github.com/hashload/jhonson": "^1.1.4"
+	}
+}
